@@ -23,7 +23,7 @@ operations
 
 
 ## Quick sort
-   
+ 
 ## Prerequisites
    
    python 3.8 or higher
