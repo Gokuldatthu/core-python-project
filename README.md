@@ -64,7 +64,7 @@ sql
 
 ## 5.Run the Application
 
-## streamlit frontend
+### streamlit frontend
   The App will open in your browser at 'https://localhost:8502'
 
   ##FastAPI Backend
@@ -74,24 +74,24 @@ sql
 
    The API will be available at 'http://localhost:8000'
 
-## How to use
+### How to use
 
 
 
-## Technologies used
+### Technologies used
    **frontend**
    **Backend**
    **database**
    **language**
 
-## key components
+### key components
 
 
 
-## Trouble shooting 
+### Trouble shooting 
  
    
-## Future Enhancement
+### Future Enhancement
 
-## support
+### support
 gokuldatthubandi@gmail.com
