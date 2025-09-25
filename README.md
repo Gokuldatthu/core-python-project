@@ -3,25 +3,25 @@
 A simple tool used to let the student know which clgs one can take admission based on EAMCET Ranks 
 
 # project stucture
-
-clgprdctr  
+```
+clgprdctr/
 |
 |---src/            #core application logic
-|    |---logic.py   #Business logic and task
+|    |-logic.py   #Business logic and task
 operations
-|    |_db.py         #Database OPerations
+|    |-db.py         #Database OPerations
 |---api/
-|    |_main.py        
+|    |-main.py        
 |---frontend/        #frontend application 
-|    |_app.py        #streamlit web interfacce
+|    |-app.py        #streamlit web interfacce
 |
 |---requirements.txt #Python Dependencies
 |
 |---readme.md #Project Documentation
 |
-|___.env #python Variables
+|---.env #python Variables
 
-
+```
 ## Quick sort
  
 ## Prerequisites
@@ -83,13 +83,13 @@ operations
    **database**
    **language**
 
-## keypoints
+## key components
 
 
 
 ## Trouble shooting 
  
-
+   
 ## Future Enhancement
 
 ## support
